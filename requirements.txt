@@ -1,0 +1,14 @@
+# Relevante requirements für SolarFlarePredictionFinal.ipynb
+pandas
+numpy
+pathlib
+seaborn
+torch
+torchaudio
+torchvision
+scikit-learn
+matplotlib
+copy
+math
+ipykernel
+jupyter
